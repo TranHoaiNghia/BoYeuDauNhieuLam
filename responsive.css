@@ -1,0 +1,16 @@
+
+@media (max-width: 740px){
+    .question{
+        font-size: 30px;
+        margin-left: 40px;
+    }
+
+    .question-prompt{
+        margin-left: 50px;
+    }
+
+    .link-item{
+        margin-left: 100px;
+        margin-right: 20px;
+    }
+}
